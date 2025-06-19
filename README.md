@@ -15,7 +15,7 @@ I analyzed over 100 cities globally to visualize global price differences, compa
 ![US vs Global](assets/us_vs_global_chart.png)
 
 ### 📈 Price Distribution by City
-![Distribution Chart](price_distribution_chart.png)
+![Distribution Chart](assets/price_distribution_chart.png)
 
 ---
 
