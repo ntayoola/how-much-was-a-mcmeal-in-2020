@@ -8,10 +8,16 @@ I analyzed over 100 cities globally to visualize global price differences, compa
 
 ## 📊 Charts & Visuals
 
-- 🔝 **Top 10 Most Expensive Cities for a McMeal**
-- 🇺🇸 **United States vs Global Average**
-- 📈 **Fast Food Price Distribution Histogram**
-- 🌍 **Regional Comparisons by Continent**
+### 🔝 Top 10 Most Expensive Cities
+![Top 10 Chart](assets/top10_chart.png)
+
+### 🇺🇸 U.S. vs Global Average McMeal Price
+![US vs Global](assets/us_vs_global_chart.png)
+
+### 📈 Price Distribution by City
+![Distribution Chart](assets/price_distribution_chart.png)
+
+---
 
 All charts were created in **Excel Online**, and exported as clean visuals for clarity and shareability.
 
